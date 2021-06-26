@@ -11,3 +11,6 @@ console.log('done feature 2')
 
 // Merge feature1 + feature2 into master branch
 console.log('feature 1 + feature 2')
+
+// Done All
+console.log('Done All')
